@@ -47,5 +47,3 @@ The frontend runs on [http://localhost:3000](http://localhost:3000)
 - **Email:** required, valid format, unique
 - **Phone:** required, 10-15 digits
 
-## License
-MIT
